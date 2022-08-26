@@ -7,7 +7,7 @@ C-->D
 D-->A
 ```
 ```mermaid
-journey j
+journey
 title My working day
     section Go to work
       Make tea: 5: Me
